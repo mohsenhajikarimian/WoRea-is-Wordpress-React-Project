@@ -1,1 +1,1 @@
-# Wordpress-react-worea
+# WoRea
